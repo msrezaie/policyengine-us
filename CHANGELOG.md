@@ -5,6 +5,92 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.125.0] - 2024-10-15 16:32:32
+
+### Added
+
+- Exclude students from the SNAP unit with certain exceptions.
+
+## [1.124.0] - 2024-10-15 16:26:25
+
+### Added
+
+- IN county taxes.
+
+## [1.123.0] - 2024-10-15 10:18:53
+
+### Added
+
+- 2024 tax rate, CDCC match, standard deduction and personal exemption amount in Kansas..
+
+## [1.122.0] - 2024-10-15 03:15:23
+
+### Added
+
+- Kansas disabled veteran exemptions.
+
+## [1.121.0] - 2024-10-15 03:05:54
+
+### Added
+
+- Idaho 2024 income tax rate and brackets.
+
+## [1.120.0] - 2024-10-15 00:23:23
+
+### Added
+
+- California Income Tax Thresholds 2024.
+
+## [1.119.0] - 2024-10-14 20:55:12
+
+### Added
+
+- California Standard Deduction, Personal/Dependent Exemption Credits and Renter AGI Cap 2024.
+
+## [1.118.0] - 2024-10-14 20:30:24
+
+### Added
+
+- Kentucky Standard Deduction 2024 & 2025.
+
+## [1.117.0] - 2024-10-14 19:22:35
+
+### Added
+
+- Harris capital gains tax reform.
+
+## [1.116.0] - 2024-10-14 19:08:02
+
+### Added
+
+- Missouri 2024 income tax rate and brackets.
+
+## [1.115.0] - 2024-10-09 15:10:16
+
+## [1.114.0] - 2024-10-09 11:09:17
+
+## [1.113.0] - 2024-10-09 04:16:32
+
+### Added
+
+- Minnesota 2024 standard deduction limitations update.
+
+## [1.112.0] - 2024-10-08 14:36:53
+
+### Added
+
+- Minnesota 2024 base and additional standard deduction amount updates.
+
+## [1.111.0] - 2024-10-08 14:25:53
+
+### Added
+
+- Added NC SNAP utility allowances for FY 2025.
+
+### Fixed
+
+- Corrected NC SNAP utility allowance parameters start date.
+
 ## [1.110.0] - 2024-10-07 13:04:35
 
 ## [1.109.0] - 2024-10-06 10:30:21
@@ -9925,6 +10011,21 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 
 
+[1.125.0]: https://github.com/PolicyEngine/policyengine-us/compare/1.124.0...1.125.0
+[1.124.0]: https://github.com/PolicyEngine/policyengine-us/compare/1.123.0...1.124.0
+[1.123.0]: https://github.com/PolicyEngine/policyengine-us/compare/1.122.0...1.123.0
+[1.122.0]: https://github.com/PolicyEngine/policyengine-us/compare/1.121.0...1.122.0
+[1.121.0]: https://github.com/PolicyEngine/policyengine-us/compare/1.120.0...1.121.0
+[1.120.0]: https://github.com/PolicyEngine/policyengine-us/compare/1.119.0...1.120.0
+[1.119.0]: https://github.com/PolicyEngine/policyengine-us/compare/1.118.0...1.119.0
+[1.118.0]: https://github.com/PolicyEngine/policyengine-us/compare/1.117.0...1.118.0
+[1.117.0]: https://github.com/PolicyEngine/policyengine-us/compare/1.116.0...1.117.0
+[1.116.0]: https://github.com/PolicyEngine/policyengine-us/compare/1.115.0...1.116.0
+[1.115.0]: https://github.com/PolicyEngine/policyengine-us/compare/1.114.0...1.115.0
+[1.114.0]: https://github.com/PolicyEngine/policyengine-us/compare/1.113.0...1.114.0
+[1.113.0]: https://github.com/PolicyEngine/policyengine-us/compare/1.112.0...1.113.0
+[1.112.0]: https://github.com/PolicyEngine/policyengine-us/compare/1.111.0...1.112.0
+[1.111.0]: https://github.com/PolicyEngine/policyengine-us/compare/1.110.0...1.111.0
 [1.110.0]: https://github.com/PolicyEngine/policyengine-us/compare/1.109.0...1.110.0
 [1.109.0]: https://github.com/PolicyEngine/policyengine-us/compare/1.108.0...1.109.0
 [1.108.0]: https://github.com/PolicyEngine/policyengine-us/compare/1.107.0...1.108.0
